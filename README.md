@@ -1,8 +1,5 @@
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/node.js-grey?logo=nodedotjs) ![GitHub stars](https://img.shields.io/github/stars/itzzzme/anime-api?logo=github)
-![GitHub forks](https://img.shields.io/github/forks/itzzzme/anime-api?logo=github)
-![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
 
 </div>
 
